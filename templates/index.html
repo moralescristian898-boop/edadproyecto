@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Registro con edad</title>
+
+</head>
+
+<body>
+
+  <h1>Registrar nombre y edad</h1>
+
+ 
+
+  <input type="text"   id="nombre" placeholder="Escribe tu nombre"> 
+  <p></p>
+
+  <input type="number" id="edad"    placeholder="Escribe tu edad">
+  <p></p>
+
+  <button id="btn">Guardar</button>
+
+ 
+
+  <p id="respuesta"></p>
+
+ 
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+
+</html>
