@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Ana",
+    "edad": 20,
+    "categoria": "mayor de edad"
+  },
+  {
+    "nombre": "Luis",
+    "edad": 15,
+    "categoria": "menor de edad"
+  },
+  {
+    "nombre": "Sofia",
+    "edad": 18,
+    "categoria": "mayor de edad"
+  }
+]
